@@ -35,7 +35,7 @@ http://localhost:3000
 ```
 
 The folder contains a .env with JWT_SECRET, DB URI and PORT, please change it when testing with your MongoDB.
-I also used a VS Code Extension called REST Client (Huachao Mao) to send the requests. There's a file for that with predefined snippets.
+I also used a VS Code Extension called REST Client (Huachao Mao) to send the requests since it's simple and can be easily demonstrated. There's a file for that with predefined snippets.
 
 ## Authentication
 
